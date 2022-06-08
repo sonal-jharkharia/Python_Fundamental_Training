@@ -18,4 +18,21 @@ Follow the order below of notebooks for the sessions :
 14. https://github.com/sonal-jharkharia/Python_Fundamental_Training/blob/main/Assignment_2.ipynb
 15. https://github.com/sonal-jharkharia/Python_Fundamental_Training/blob/main/While_loops.ipynb
 16. https://github.com/sonal-jharkharia/Python_Fundamental_Training/blob/main/For_Loops.ipynb
-17. 
+17. https://github.com/sonal-jharkharia/Python_Fundamental_Training/blob/main/Lists_1.ipynb
+18. https://github.com/sonal-jharkharia/Python_Fundamental_Training/blob/main/More_Lists_and_Tuples.ipynb
+19. https://github.com/sonal-jharkharia/Python_Fundamental_Training/blob/main/programming_drill_6.ipynb
+20. 
+21. https://github.com/sonal-jharkharia/Python_Fundamental_Training/blob/main/Assignment_3.ipynb
+22. https://github.com/sonal-jharkharia/Python_Fundamental_Training/blob/main/Assignment%204%20-%20Investing.pdf
+23. https://github.com/sonal-jharkharia/Python_Fundamental_Training/blob/main/Dictionaries.ipynb
+24. 
+25. https://github.com/sonal-jharkharia/Python_Fundamental_Training/blob/main/Recursion.ipynb
+26. https://github.com/sonal-jharkharia/Python_Fundamental_Training/blob/main/Assignment_5.ipynb
+27. 
+28. https://github.com/sonal-jharkharia/Python_Fundamental_Training/blob/main/Numpy_Operations.ipynb
+29. https://github.com/sonal-jharkharia/Python_Fundamental_Training/blob/main/Assignment_6_Numpy.ipynb
+30. https://github.com/sonal-jharkharia/Python_Fundamental_Training/blob/main/File_handling.ipynb
+31. https://github.com/sonal-jharkharia/Python_Fundamental_Training/blob/main/Programming_drill_numpy.ipynb
+32. https://github.com/sonal-jharkharia/Python_Fundamental_Training/blob/main/programming_drill_Classes.ipynb
+
+
