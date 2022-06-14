@@ -1,6 +1,8 @@
 # Python_Fundamental_Training
 This has notebooks for all the core concepts starting from absolute basics for training purpose.
 
+Introduction to Google Collaboratory used in below sessions - https://www.youtube.com/watch?v=5R47Kb1wgsc
+
 Follow the order below of notebooks/youtube links for the sessions :
 
 1. Introduction to Programming - 
